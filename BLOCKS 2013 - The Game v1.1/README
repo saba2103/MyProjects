@@ -1,0 +1,20 @@
+I created this game during my 12th grade. I was not taught about file handling when i started this.
+I was so excited with this. So, i learnt it myself and it worked out. That's why the code looks messy.
+
+There was no graphics.h and time.h in the syllabus and hence, my creativity was limited. And i decided to
+get to work with just the available resources and not learn anything new coz i had no time for all that.
+
+So, let me tell you what i did for time delay. I had a partner named Sumukha. He gave came up with this idea. 
+He actually noticed that a for loop of 10000 and more iterations
+took a few seconds to complete. so he made a senseless for loop of more than 10000 iterations.
+On calling this function 'n' number of times helped us to achieve different time intervals.
+As you already figured out, this purely depeneded on the computer's speed. We created according to our school computer speed.
+And the code runs damn slow in my PC. :P 
+
+So, i got some free time after 12th and i decided to organize the code properly. i didn't try to correct the mess
+coz the code was so inefficient and had no time for it. So, finally i learnt time.h and used it.
+So, now the game is perfectly cool. 
+
+P.S. So, if you just wanna have fun, play only the game and don't go through the code. It drives you mad. :P
+
+This whole idea was my own and never copied from anywhere. And i wrote the whole program all by myself.
